@@ -1,0 +1,10 @@
+.odd {
+    background-color: #ee5d5d;
+}
+#second {
+    font-size: 40px; color: #0000FF; font-family: 'Courier New', Courier, monospace;
+}
+.exception {font-size: 30px;}
+#fourth {
+    background-color: rgb(82, 211, 121); font-weight: bold; font-size: 25px;
+}
